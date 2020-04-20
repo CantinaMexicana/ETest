@@ -1369,28 +1369,3 @@ section.lazy-placeholder:after {
     padding-bottom: 3rem;
   }
 }
-.cid-0gASlcrbzy .floating-bar {
-  position: fixed;
-  width: 60px;
-  height: 60px;
-  bottom: 40px;
-  left: 40px;
-  background-color: #12ef2e;
-  color: #c4bc3b;
-  border-radius: 50%;
-  text-align: center;
-  box-shadow: 2px 2px 2px #999;
-  transition: 0.3s;
-  z-index: 99999;
-}
-.cid-0gASlcrbzy .floating-bar:hover {
-  background-color: #c4bc3b;
-}
-.cid-0gASlcrbzy .floating-button {
-  color: #c4bc3b;
-}
-.cid-0gASlcrbzy .valign {
-  position: relative;
-  top: 50%;
-  transform: translateY(-50%);
-}
